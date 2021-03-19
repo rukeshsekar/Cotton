@@ -1,2 +1,1 @@
-# Cotton
-Cotton leaf disease prediction
+# Cotton-Disease-Prediction-Deep-Learning
